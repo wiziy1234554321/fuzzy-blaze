@@ -1,8 +1,9 @@
 body {
-  background-color: black;
-  color: white;
+  margin: 0;
+  background: black !important;
+  color: white !important;
 }
 
 h1 {
-  color: gold;
+  color: gold !important;
 }
